@@ -1,0 +1,15 @@
+\\psf\home\documents\visual studio 2013\Projects\PwdBox\PwdBox\bin\Debug\PwdBox.exe.config
+\\psf\home\documents\visual studio 2013\Projects\PwdBox\PwdBox\bin\Debug\PwdBox.exe
+\\psf\home\documents\visual studio 2013\Projects\PwdBox\PwdBox\bin\Debug\PwdBox.pdb
+\\psf\home\documents\visual studio 2013\Projects\PwdBox\PwdBox\obj\Debug\PwdBox.Form1.resources
+\\psf\home\documents\visual studio 2013\Projects\PwdBox\PwdBox\obj\Debug\PwdBox.Properties.Resources.resources
+\\psf\home\documents\visual studio 2013\Projects\PwdBox\PwdBox\obj\Debug\PwdBox.csproj.GenerateResource.Cache
+\\psf\home\documents\visual studio 2013\Projects\PwdBox\PwdBox\obj\Debug\PwdBox.exe
+\\psf\home\documents\visual studio 2013\Projects\PwdBox\PwdBox\obj\Debug\PwdBox.pdb
+\\psf\home\documents\visual studio 2013\Projects\PwdBox\PwdBox\obj\Debug\PwdBox.Form2.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\PwdBox\PwdBox\bin\Debug\PwdBox.exe.manifest
+\\psf\Home\Documents\Visual Studio 2013\Projects\PwdBox\PwdBox\bin\Debug\PwdBox.application
+\\psf\Home\Documents\Visual Studio 2013\Projects\PwdBox\PwdBox\obj\Debug\PwdBox.exe.manifest
+\\psf\Home\Documents\Visual Studio 2013\Projects\PwdBox\PwdBox\obj\Debug\PwdBox.application
+\\psf\Home\Documents\Visual Studio 2013\Projects\PwdBox\PwdBox\obj\Debug\PwdBox.password.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\PwdBox\PwdBox\obj\Debug\PwdBox.csprojResolveAssemblyReference.cache
